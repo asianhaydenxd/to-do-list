@@ -1,0 +1,17 @@
+#header {
+    text-align: center;
+    padding: 5px;
+}
+
+#output li {
+    list-style-type: none;
+    padding: 5px;
+    margin: 10px;
+    outline: 1px groove #222;
+}
+
+#output li button {
+    float: right;
+    background-color: #d44646;
+    color: white;
+}
